@@ -1,0 +1,5 @@
+[LOG] 2026-10-16 15:44:56 設定内容を確認するために出力してみる
+[LOG] 2026-10-16 15:44:56 {'app-name': 'かんぺくん', 'app-mode': 'debug', 'window': {'title': 'かんぺくん', 'icon': '', 'geometry': '800x600', 'min_width': 400, 'min_height': 300, 'max_width': 0, 'max_height': 0}, 'ui': {'appearance_mode': 'light', 'color_theme': 'default'}}
+[LOG] 2026-10-16 15:48:12 アプリケーション起動
+[LOG] 2026-10-16 15:49:56 アプリケーション起動
+[LOG] 2026-10-16 15:50:32 アプリケーション起動

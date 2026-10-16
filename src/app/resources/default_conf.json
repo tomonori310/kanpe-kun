@@ -1,0 +1,19 @@
+{
+    "app-name": "かんぺくん",
+    "app-mode": "debug",
+    "window": {
+        "title": "かんぺくん",
+        "icon": "",
+        "geometry": "800x600",
+        "min_width": 400,
+        "min_height": 300,
+        "max_width": 0,
+        "max_height": 0
+    },
+    "ui": {
+        "appearance_mode": "light",
+        "color_theme": "blue"
+    }
+}
+
+
